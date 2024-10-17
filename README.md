@@ -1,2 +1,2 @@
 # mernProject
-<h1>mern stack project </h1>
+<p>mern stack project </p>
